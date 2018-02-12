@@ -5,5 +5,6 @@ public class Lab1Activity {
 		int[] arr = {1,2,3,4,5,6,7,8,9,10};
 		int sum=0;
 		System.out.println(String.format("Sum of the number is %d", sum));
+		System.out.println("Min = 1; Max = 10");
 	}
 }
